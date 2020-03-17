@@ -1,9 +1,9 @@
 variable "profile" {
-  default = ""
+  default = "default"
 }
 
 variable "region" {
-  default = ""
+  default = "us-east-1"
 }
 
 variable "tag-Name" {

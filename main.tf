@@ -17,5 +17,3 @@ resource "aws_instance" "ec2-instance" {
     "Technical:Environment"     = var.tag-Environment
   }
 }
-
-
